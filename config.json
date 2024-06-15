@@ -1,12 +1,12 @@
 {
     "color": "#6495ED",
     "prefix": "+",
-    "name": "4Protect",
+    "name": "🦅・PANAME",
     "defaultjoinmessage": "{user} vient de rejoindre. Il a été invité par **{inviter:name}** qui a désormais **{invite} invitations** !",
     "defaultleavemessage": "{user} vient de quitter. Il avais été invité par **{inviter:name}** qui a désormais **{invite} invitations** ",
     "defaultLevelmessage": "**{user}** vient de passer au level **{level}** bravo à lui !",
     "owner": [
-        "1208337813339373569", 
+        "1238877725058535444", 
         "",
         ""
     ]
